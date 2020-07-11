@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: [E-mail](mailto:bradly.alicea@outlook.com), [Slack](http://orthogonal-research.slack.com), [Twitter](http://www.twitter.com/balicea1), Keybase
 
-- 👯 I’m looking to collaborate on big, unfinished ideas!
+- 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas!
 
 - 🤔 I’m looking for help with community members, funders.
 
