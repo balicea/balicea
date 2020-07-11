@@ -1,3 +1,6 @@
+<p align="center">
+<img HEIGHT = 200 WIDTH = 200 src="https://github.com/balicea/balicea/blob/master/nu17btiu_400x400.jpg"><BR>
+</p>
 ### Hi there 👋
 
 - 🔭 I’m currently working on making Github commits via [Orthogonal Research and Education Lab](https://github.com/Orthogonal-Research-Lab), [DevoWorm](https://github.com/devoworm), [OpenWorm Foundation](https://github.com/openworm), [Synthetic Daisies](https://github.com/synthetic-daisies)
