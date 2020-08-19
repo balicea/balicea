@@ -11,7 +11,7 @@
 
 - 🤔 I’m looking for help with community members, funders.
 
-- 💬:volcano: Ask me about my collection of ideas!
+- :volcano: Ask me about my collection of ideas!
 
 - 😄 Pronouns: he/him/his
 
