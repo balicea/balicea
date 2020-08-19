@@ -3,7 +3,7 @@
 </p>
 ### Hi there 👋
 
-- 🔭 :home: :computer: :microscope: I’m currently working on making Github commits via [Orthogonal Research and Education Lab](https://github.com/Orthogonal-Research-Lab), [DevoWorm](https://github.com/devoworm), [OpenWorm Foundation](https://github.com/openworm), [Synthetic Daisies](https://github.com/synthetic-daisies), and [DevoLearn](https://github.com/DevoLearn)
+- 🏡 :computer: :microscope: I’m currently working on making Github commits via [Orthogonal Research and Education Lab](https://github.com/Orthogonal-Research-Lab), [DevoWorm](https://github.com/devoworm), [OpenWorm Foundation](https://github.com/openworm), [Synthetic Daisies](https://github.com/synthetic-daisies), and [DevoLearn](https://github.com/DevoLearn)
 
 - 📫 How to reach me: [E-mail](mailto:bradly.alicea@outlook.com), [Slack](http://orthogonal-research.slack.com), [Twitter](http://www.twitter.com/balicea1), Keybase
 
