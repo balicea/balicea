@@ -3,7 +3,7 @@
 </p>
   <H2>Hello! 👋 </H2>
 
-- 🏡 :computer: :microscope: I’m currently working on making Github commits via [Orthogonal Research and Education Lab](https://github.com/Orthogonal-Research-Lab), [DevoWorm](https://github.com/devoworm), [OpenWorm Foundation](https://github.com/openworm), [Synthetic Daisies](https://github.com/synthetic-daisies), and [DevoLearn](https://github.com/DevoLearn)
+- 🏡 :computer: :microscope: I’m currently working on making Github commits via [Rokwire Community](https://github.com/rokwire/rokwire-community), [Orthogonal Research and Education Lab](https://github.com/Orthogonal-Research-Lab), [DevoWorm](https://github.com/devoworm), [OpenWorm Foundation](https://github.com/openworm), [Synthetic Daisies](https://github.com/synthetic-daisies), and [DevoLearn](https://github.com/DevoLearn)
 
 - 📫 How to reach me: [E-mail](mailto:bradly.alicea@outlook.com), [Slack](http://orthogonal-research.slack.com), [Twitter](http://www.twitter.com/balicea1), Keybase
 
@@ -15,7 +15,7 @@
 
 - 😄 Pronouns: he/him/his
 
-- :on: :beginner: Rokwire [web](https://rokwire.org/), [Github](https://github.com/rokwire), [Community coming soon!](https://rokwirecommunity.web.illinois.edu/)
+- :on: :building: Rokwire [web](https://rokwire.org/), [Github](https://github.com/rokwire), [Community](https://rokwirecommunity.web.illinois.edu/)
 
 <!--
 **balicea/balicea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
