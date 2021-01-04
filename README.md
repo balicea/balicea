@@ -15,7 +15,7 @@
 
 - 😄 Pronouns: he/him/his
 
-- :on: :construction: Rokwire [web](https://rokwire.org/), [Github](https://github.com/rokwire), [Community](https://rokwirecommunity.web.illinois.edu/)
+- :on: 🌱 :fire: Rokwire [web](https://rokwire.org/), [Github](https://github.com/rokwire), [Community](https://rokwirecommunity.web.illinois.edu/)
 
 <!--
 **balicea/balicea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
