@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas!
 
-_ :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
+- :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
 
 - 🤔 I’m looking for help with community members, funders.
 
