@@ -11,7 +11,7 @@
 
 - :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
 
-- 🤔 I’m looking for help with community members, funders.
+- 🤔 I’m looking for help with community members, funders. Also, if someone has developed a good set of biology-specific emojis, get in touch.
 
 - :volcano: Ask me about my collection of ideas!
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 - ⚡ Fun fact: ...
--->
+--> 
