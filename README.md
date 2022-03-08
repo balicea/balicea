@@ -11,7 +11,7 @@
 
 - :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
 
-- 🤔 I’m looking for help with community members, funders. Also, if someone has developed a good set of biology-specific emojis :snail:, :fish:, :hatching_chick:, get in touch.
+- 🤔 I’m looking for help with community members, funders. Also, if someone has developed a good set of biology-specific emojis (:snail:, :fish:, :hatching_chick: are not sufficient for our needs), get in touch.
 
 - :volcano: Ask me about my collection of ideas!
 
