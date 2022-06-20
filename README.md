@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: [E-mail](mailto:bradly.alicea@outlook.com), [Slack](http://orthogonal-research.slack.com), [Twitter](http://www.twitter.com/balicea1), Keybase
 
-- 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas!
+- 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas! It's the 10th Anniversary of the Hard-to-Define Events Workshop -- look for me at the [NetBioMed](https://sites.google.com/channing.harvard.edu/netbiomed2022) satellite of [NetSci 2022](https://netsci2022.net/) 🔥
 
 - :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
 
