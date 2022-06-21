@@ -16,6 +16,8 @@
 - :volcano: Ask me about my collection of ideas!
 
 - 😄 Pronouns: he/him/his
+  
+- 🌱 [ActInf Lab](https://www.activeinference.org/) Scientific Advisory Board.
 
 <!--
 **balicea/balicea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
