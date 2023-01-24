@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: [E-mail](mailto:bradly.alicea@outlook.com), [Twitter](http://www.twitter.com/balicea1), [LinkedIn](https://www.linkedin.com/in/bradlyalicea/)
 
-- 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas! Virtual Reality, Computational Developmental Biology, and Neuro/CogSci. It's the 10th Anniversary of the Hard-to-Define Events Workshop -- look for me at the [NetBioMed](https://sites.google.com/channing.harvard.edu/netbiomed2022) satellite of [NetSci 2022](https://netsci2022.net/) 🔥
+- 👯 I’m looking to collaborate on big, unfinished (or unwieldy) ideas! Virtual Reality, Computational Developmental Biology, and Neuro/CogSci. My collaborators and I combine this perspective with social feed pedagogy on the [Big, Unfinished Ideas Discord](https://discord.gg/ZvxwgXg) 🔥
 
 - :watch: Check out my recent publications! [CV](https://balicea.github.io/CV.html)
 
@@ -19,14 +19,4 @@
   
 - 🌱 [ActInf Lab](https://www.activeinference.org/) Scientific Advisory Board. [Jopro](https://www.jopro.org/) Education Advisor
 
-<!--
-**balicea/balicea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-
-
-- ⚡ Fun fact: ...
---> 
+- ⚡ Fun fact: Spring 2023 I am teaching Project Management from an Open Perspective at the [University of Illinois Urbana-Champaign iSchool]()! 
