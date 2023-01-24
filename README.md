@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: he/him/his
   
-- 🌱 [ActInf Lab](https://www.activeinference.org/) Scientific Advisory Board.
+- 🌱 [ActInf Lab](https://www.activeinference.org/) Scientific Advisory Board. [Jopro](https://www.jopro.org/) Education Advisor
 
 <!--
 **balicea/balicea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
